@@ -1,0 +1,30 @@
+# =============== #
+# Unity generated #
+# =============== #
+/Library/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.vscode
+*.unitypackage
+*.DS_Store
+*.apk
+*.aab
+
+# ============== #
+# OS generated   #
+# ============== #
+.DS_Store
+Thumbs.db
+
+# ============== #
+# Logs & Cache   #
+# ============== #
+/[Ll]ogs/
